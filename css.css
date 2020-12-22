@@ -1,0 +1,14 @@
+body{
+    justify-content: center;
+    display: flex;
+}
+
+.input{
+    display: inline-block;
+    border: solid 2px;
+    border-radius: 10px;
+    height: 20%;
+}
+.text, .button, .output{
+    margin: 5px;
+}
